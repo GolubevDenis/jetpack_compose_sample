@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "56499561226",
+    "firebase_url": "https://movies-searcher-942f7.firebaseio.com",
+    "project_id": "movies-searcher-942f7",
+    "storage_bucket": "movies-searcher-942f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56499561226:android:a4ea04aec610a94304d0f3",
+        "android_client_info": {
+          "package_name": "com.blackcube.moviessearcher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56499561226-8a1la85t6jr3ufva1l35o5c2im3hif5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4XpxkCQpEnFTZhYUaHqXM4ZngpL3IFQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56499561226-8a1la85t6jr3ufva1l35o5c2im3hif5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
